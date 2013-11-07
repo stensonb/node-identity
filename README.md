@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/stensonb/node-identity.png?branch=master)](https://travis-ci.org/stensonb/node-identity)
+
 node-identity
 =============
 
